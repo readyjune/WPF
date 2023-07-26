@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Custom_Application_Windows_And_Title_Bar/1.0.0": {
+        "runtime": {
+          "Custom_Application_Windows_And_Title_Bar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom_Application_Windows_And_Title_Bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
